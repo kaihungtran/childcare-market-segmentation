@@ -59,4 +59,4 @@ Built as part of **BA820 (Unsupervised ML & Text Mining)** at Boston University 
 - M3 (Clustering pipeline): Collaborative
 - M4 (UMAP segmentation): Individual work — Kai Hung Tran
 
-Full team repo: [github.com/shonshaju/BA820-Team4](https://github.com/shonshaju/BA820-Team4) *(update this link)*
+Full team repo: [shonnvs-code/Team4-A1-BA820-Project](https://github.com/shonnvs-code/Team4-A1-BA820-Project/tree/main)
