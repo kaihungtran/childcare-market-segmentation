@@ -42,9 +42,10 @@ KMeans on UMAP     ← Silhouette 0.47, interpretable segments
 
 | Notebook | Description |
 |---|---|
-| `01_eda_and_pca.ipynb` | Exploratory analysis, PCA, initial cluster exploration |
-| `02_clustering.ipynb` | KMeans, Ward's hierarchical, outlier analysis |
-| `03_umap_segmentation.ipynb` | UMAP dimensionality reduction + final segmentation |
+| `01_data_exploration.ipynb` | Initial data exploration and feature understanding |
+| `02_eda_and_pca.ipynb` | EDA, PCA, socioeconomic gradient analysis |
+| `03_clustering.ipynb` | KMeans, Ward's hierarchical, outlier analysis |
+| `04_umap_segmentation.ipynb` | UMAP dimensionality reduction + final segmentation |
 
 ## Data
 
